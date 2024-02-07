@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+데이터 엔지니어를 준비중인 윤상훈입니다
 <!--
 **humaningansalam/humaningansalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
